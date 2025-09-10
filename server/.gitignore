@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+config.env
+
+
+# Build output
+# dist/
+
+# Other sensitive or unnecessary files
+.env
